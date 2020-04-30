@@ -1,4 +1,4 @@
-##  Spam Email Filterusing Naive Bayes Theorem
+##  Spam Email Filter using Naive Bayes Theorem
 
 ### Introduction
 The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research which contains one set of SMS messages in English of 5,574 messages, tagged according being ham (legitimate) or spam.
